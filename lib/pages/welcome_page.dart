@@ -54,7 +54,7 @@ class _WelcomePageState extends State<WelcomePage> {
                           width: 250,
                           child: AppText(
                             text:
-                                "Mountain hikes give you an incredible sense of freedom along with endurance tests",
+                                "Mountain hikes give you an incredible sense of freedom along with endurance tests.",
                             color: AppColors.textColor2,
                             size: 14,
                           ),
